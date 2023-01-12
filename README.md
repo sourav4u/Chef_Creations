@@ -20,7 +20,11 @@ Chef- creation is a mini- blogging web app which tells about some interesting fa
 
 ![Screenshot 2023-01-10 192520](https://user-images.githubusercontent.com/64978605/212058920-57885566-80ae-4fd0-9537-dad5e5ec5c82.png)
 
-
+##To run this project.
+- First Install all node modules using npm ci or npm install.
+- then create a project in firebase.
+- Add Firebase Config in ```/src/config/fbConfig.js``` in ```const firebaseConfig = {}```
+- npm start.
 
 ##### ScreenShots :-
 
